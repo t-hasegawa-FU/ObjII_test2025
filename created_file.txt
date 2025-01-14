@@ -1,0 +1,6 @@
+cahaarset="utf-8"/>
+<   title>Hasegawa Laboratory</title>
+http-equiv="X-UA-Compatible" content="IE=edge">
+content="width=device-width, initial-scale=1" name="viewport"/>
+content="" name="description"/>
+content="" name="author"/>
