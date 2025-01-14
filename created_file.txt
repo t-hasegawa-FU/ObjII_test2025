@@ -1,6 +1,7 @@
-cahaarset="utf-8"/>
-<   title>Hasegawa Laboratory</title>
-http-equiv="X-UA-Compatible" content="IE=edge">
-content="width=device-width, initial-scale=1" name="viewport"/>
-content="" name="description"/>
-content="" name="author"/>
+// 適当にテストのために作りました。
+
+public class Test{
+	public static void main(String[] args){
+		System.out.println("Tekitou");
+	}
+}
